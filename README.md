@@ -45,9 +45,9 @@ This project demonstrates the potential of hybrid deep learning models in enhanc
 
 ## Authors and Acknowledgments
 This project was developed by:
-- Shivani Battu
 - Likhitha Marrapu
 - Chandini Karrothu
+- Shivani Battu
 - Anuranjani Thota
 - Hanan Muhajab
 - Areej Muhajab
